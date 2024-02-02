@@ -1,0 +1,2 @@
+Daftar Makanan 1: cupcakE,katsu,perkedel,kwetiau,kwetiau,cupcAke,katsu
+Daftar Makanan 2: katsu,muffin,pempek,sushi
