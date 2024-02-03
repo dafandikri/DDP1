@@ -10,8 +10,7 @@ File .zip dengan format penamaan `ROY_B_2306244993_ErdafaAndikri_<Tugas>` adalah
 
 ## Cara Menggunakan Repository
 
-1. Clone repository ini ke komputer Anda menggunakan perintah:
- `git clone https://github.com/dafandikri/DDP1.git`
+1. Clone repository ini ke komputer Anda menggunakan perintah `git clone https://github.com/dafandikri/DDP1.git`
 2. Buka folder repository ini menggunakan editor atau IDE yang Anda gunakan.
 3. Anda akan menemukan berbagai folder yang masing-masing berisi soal dan solusi dari lab dan tugas pemrograman.
 4. Anda dapat membuka dan mempelajari kode yang ada di dalamnya.
