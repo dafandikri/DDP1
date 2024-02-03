@@ -2,8 +2,9 @@
 
 Halo semua! Repository ini dibuat untuk memberikan akses kepada kalian semua terhadap soal-soal lab dan tugas pemrograman yang saya kerjakan. Tujuan dari repository ini adalah untuk berbagi pengetahuan dan pengalaman dalam mengerjakan soal-soal tersebut.
 
-`CATATAN`
-Password untuk membuka file `TP4` PDF: DDP2RustOrGolang
+## CATATAN
+
+Password untuk membuka file `TP4` PDF: DDP2RustOrGolang.
 File .zip dengan format penamaan `ROY_B_2306244993_ErdafaAndikri_<Tugas>` adalah file pengumpulan saya, jadi ignore saja yaa...
 
 ## Cara Menggunakan Repository
